@@ -1,0 +1,6 @@
+name: sage-env
+channels:
+  - conda-forge
+dependencies:
+  - sage
+  - notebook
